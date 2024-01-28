@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm G.R.Udara</h1>
+h1 align="center">Hi 👋, I'm G.R.Udara</h1>
 <h3 align="center">Glad to see you here..!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gameenudara&label=Profile%20views&color=0e75b6&style=flat" alt="gameenudara" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gameenudara" alt="gameenudara" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot**
 
@@ -26,9 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gameenudara&show_icons=true&locale=en" alt="gameenudara" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gameenudara&" alt="gameenudara" /></p>
-
-
-
 
 
 
