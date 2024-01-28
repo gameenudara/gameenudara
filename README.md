@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm G.R.Udara</h1>
+<h1 align="center">Hi 👋, I'm G.R.Udara</h1>
 <h3 align="center">Glad to see you here..!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gameenudara&label=Profile%20views&color=0e75b6&style=flat" alt="gameenudara" /> </p>
