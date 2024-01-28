@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <h1 align="center">Hi 👋, I'm G.R.Udara</h1>
 <h3 align="center">Glad to see you here..!</h3>
 
