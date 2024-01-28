@@ -56,7 +56,8 @@ I am a hardworking and dedicated individual with a strong passion for technology
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=gameenudara&&style=flat-square)  
+![](https://komarev.com/ghpvc/?username=gameenudara&style=flat-square)
+//![Profile views counter](https://komarev.com/ghpvc/?username=gameenudara&&style=flat-square)  
   
 
 <br/>  
