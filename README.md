@@ -42,11 +42,11 @@ I am a hardworking and dedicated individual with a strong passion for technology
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NimeshaMadurangi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gameenudarai&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimeshaMadurangi&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gameenudara&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -56,8 +56,7 @@ I am a hardworking and dedicated individual with a strong passion for technology
 
 <br/>  
 
-![](https://komarev.com/ghpvc/?username=gameenudara&style=flat-square)
-//![Profile views counter](https://komarev.com/ghpvc/?username=gameenudara&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=gameenudara&&style=flat-square)  
   
 
 <br/>  
